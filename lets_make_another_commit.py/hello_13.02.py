@@ -4,7 +4,4 @@ count2 = s.count("an")
 count3 = s.count("the")
 
 ob = count1 + count2 + count3
-print("Общее количество артиклей:", ob)
-
-Wrong_code
-new_changes
+print("Общее коkkkkличество артиклей:", ob)
