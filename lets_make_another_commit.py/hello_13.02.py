@@ -5,3 +5,6 @@ count3 = s.count("the")
 
 ob = count1 + count2 + count3
 print("Общее количество артиклей:", ob)
+
+Wrong_code
+new_changes
